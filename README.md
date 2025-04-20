@@ -1,2 +1,2 @@
-Clinical Appointments 
+Clinical Appointments. 
 Information about clinic 
